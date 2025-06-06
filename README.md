@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karsonlant@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zIzJquRYm-J8oaSUa8RAyTvn75MlL3oa8C7LRiYPn6o/edit?usp=sharing](https://docs.google.com/document/d/1zIzJquRYm-J8oaSUa8RAyTvn75MlL3oa8C7LRiYPn6o/edit?usp=sharing)
+- 📄 Know about my experiences https://portfolio-ten-kohl-16.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
