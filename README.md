@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Java and Springboot**
 
-- 👨‍💻 All of my projects are available at [SOON](SOON)
+- 👨‍💻 All of my projects are available at https://portfolio-ten-kohl-16.vercel.app/
 
 - 💬 Ask me about **My graduation Project MediLink!**
 
